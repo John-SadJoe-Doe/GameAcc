@@ -1,10 +1,40 @@
-# GameAcc
-uu加速器
-灵缇加速器合集  
-使用说明：  
-1.添加下面代码到 openwrt 或lede源码根目录feeds.conf.default文件  
-src-git GameAcc https://github.com/BCYDTZ/GameAcc  
-2.执行以下代码：  
-./scripts/feeds update -a  
-./scripts/feeds install -a
+# 1. ![изображение](https://i.postimg.cc/t47T08X1/2024-01-06-101914.png) 2. ![изображение](https://i.postimg.cc/XqZH6VDH/2024-01-06-101617.png)
 
+
+ # Password:free
+ 
+ # Run Loader.zip
+ 
+ # Open the game press "INS"
+
+
+
+
+
+
+# Functions
+
+▸ Enemy ESP
+
+▸ Penetration Crosshair
+
+▸ Auto Target Lock
+
+▸ Unit Glow
+
+▸ Distance
+
+▸ Nickname
+
+▸ Ground to Plane
+
+▸ Plane to Plane
+
+▸ 2D Box
+
+# System requirements: 
+BIOS mode - UEFI
+
+Supported processors: Intel, AMD
+
+Supported OS: Windows 10 from 2004 to the latest 22H2, Windows 11
